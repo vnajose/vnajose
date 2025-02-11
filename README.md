@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Ola, me chamo José Venâncio<br>👀 <br>🌱 Atualmente realizando um curso tecnico de TI (3°ano)<br>👨‍💼 Estou procurando melhorar meus conhecimentos e se possivel, estagiar em alguma empresa.<br>📫 Contato: instagram - @van.jose / email - jjvenancio2008@gmail.com
+👋 Ola, me chamo José Venâncio<br>👀 <br>🌱 Atualmente realizando um curso tecnico de TI (3°ano)<br>👨‍💼 Estou sempre procurando melhorar meus conhecimentos.<br>📫 Contato: instagram - @van.jose / email - jjvenancio2008@gmail.com
 
 
 ## 🌐 Socials:
