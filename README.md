@@ -1,5 +1,9 @@
 # 💫 Sobre Mim:
-👋 Ola, me chamo José Venâncio<br>💻 Estou interessado em desenvolver meu conhecimento em programação e desenvolvimento de softwares. <br>🌱 Atualmente realizando um curso tecnico de TI (3°ano)<br>👨‍💼 Estou sempre procurando melhorar meus conhecimentos.<br>📫 Contato: instagram - @vna.jose / email - jvenancio2008@gmail.com
+👋 Hi, my name is José Venâncio 
+💻 I am interested in developing my knowledge in programming and software development.
+🌱 Currently taking a technical IT course (3rd year)
+👨‍💼 I am always looking to improve my knowledge.
+📫 Contact: Instagram - @vna.jose / Email - jvenancio2008@gmail.com
 
 
 ## 🌐 Socials:
