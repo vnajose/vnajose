@@ -1,8 +1,10 @@
 # 💫 Sobre Mim:
-👋 Hi, my name is José Venâncio </br> 💻 I am interested in developing my knowledge in programming and software development.</br>🌱 Currently taking a technical IT course (3rd year)</br>👨‍💼 I am always looking to improve my knowledge. </br>📫 Contact: Instagram - @vna.jose Email- jvenancio2008@gmail.com
+<p align="center">Estudante de Desenvolvimento Web/Mobile no Colegio Cotemig. Atualmente trabalho com C#, .NET Core e SQL Server.</br>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
+  
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vna.jose) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vnajose) 
 
 # 💻 Tech Stack:
@@ -20,11 +22,4 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vnajose&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vnajose&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnajose&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
