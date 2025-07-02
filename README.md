@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-   <img src="src/SquitleEvo.gif" width="200px" height="200px" margin-left="100px" alt="Gengar Evolution">
+   <img src="src/SquitleEvo.webp" width="200px" height="200px" margin-left="100px" alt="Gengar Evolution">
 </div>
 
 <div align="center" width="100%">
