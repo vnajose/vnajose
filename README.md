@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/a/IjKJaeG.png" width="200"/>
+   <img src="src/gengareEVO.gif" width="200px" height="200px" margin-left="100px" alt="Gengar Evolution">
 </div>
 
 <div align="center" width="100%">
