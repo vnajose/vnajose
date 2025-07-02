@@ -1,6 +1,8 @@
 # 💫 Sobre Mim:
 <p align="center">Estudante de Desenvolvimento Web/Mobile no Colegio Cotemig. Atualmente trabalho com C#, .NET Core e SQL Server.</br>
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+
+<img align="right" alt="" height="190px" src="./src/pirueta.gif">
   
 
 
